@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Условие",
+      "projection": "УсловиеL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Пользователь",
+      "projection": "ПользовательL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Вид поддержки",
+  "name": "IISISS13ВидПоддержкиE",
+  "className": "ВидПоддержкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s13-вид-поддержки",
+      "modelProjection": "ВидПоддержкиE"
+    }
+  ]
+}
